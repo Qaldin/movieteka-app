@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieteka-app/static/css/main.c9b51706.css",
+    "main.js": "/movieteka-app/static/js/main.ccd3460f.js",
+    "index.html": "/movieteka-app/index.html",
+    "main.c9b51706.css.map": "/movieteka-app/static/css/main.c9b51706.css.map",
+    "main.ccd3460f.js.map": "/movieteka-app/static/js/main.ccd3460f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b51706.css",
+    "static/js/main.ccd3460f.js"
+  ]
+}
